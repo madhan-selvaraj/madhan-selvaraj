@@ -19,13 +19,13 @@
   Connect with me at
 </h3>
   &emsp;&emsp;
-  <a href="https://stackoverflow.com/users/14869869/madhan-s">
+  <a href="https://stackoverflow.com/users/14869869/madhan-s" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Madhan's Stackoverflow Profile" height=30 width=30 />
   </a>
-  <a href="https://www.linkedin.com/in/s-madhan/">
+  <a href="https://www.linkedin.com/in/s-madhan/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Madhan's LinkedIn Profile" height=30 width=30 />
   </a>
-  <a href="https://github.com/madhan9865/">
+  <a href="https://github.com/madhan9865/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Madhan's GitHub Profile" height=30 width=30 />
   </a>
 </p>
