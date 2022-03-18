@@ -6,7 +6,7 @@
 
 <!-- About -->
 <h3>
-  <img src='https://github.dev/madhan9865/madhan9865/blob/be358bb6411bdda17541fa2a8cecda5df3460a03/assets/avatar.gif' width=30 height=30 />
+  <img src='https://github.com/madhan9865/madhan9865/blob/main/assets/avatar.gif' width=20 height=20 />
   I'm
 </h3>
 <ul>
