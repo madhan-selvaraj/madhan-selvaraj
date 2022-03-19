@@ -61,7 +61,7 @@
 
 <!-- Stats -->
 <h3>📈&nbsp;Stats about me</h3>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@madhan9865&layout=compact" alt="Wakatime language stats" align="right" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@madhan9865&langs_count=6&layout=compact" alt="Wakatime language stats" align="right" width="55%" />
 <img src="https://img.shields.io/github/followers/madhan9865?label=github%20followers&logo=github&style=for-the-badge" alt="Github follower count" />
 <img src="https://img.shields.io/stackexchange/stackoverflow/r/14869869?color=orange&label=stackoverflow%20reputation&logo=stackoverflow&style=for-the-badge" alt="Stackoverflow reputaion" />
 <img src="https://img.shields.io/freecodecamp/points/madhan9865?label=freecodecamp%20points&logo=freecodecamp&style=for-the-badge" alt="Freecodecamp points" />
