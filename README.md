@@ -11,7 +11,8 @@
 </h3>
 <ul>
   <li>A Frontend Developer (React)&nbsp;💻</li>
-  <li>Currently learning React Native&nbsp;📱</li>
+  <li>Software developer at Trimble Inc.&nbsp;🏢</li>
+  <!-- <li>Currently learning React Native&nbsp;📱</li> -->
   <!-- <li>A Night owl&nbsp;🦉</li> -->
 </ul>
 &nbsp;
@@ -60,10 +61,10 @@
 &nbsp;
 
 <!-- Stats -->
-<h3>📈&nbsp;Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@madhan9865&langs_count=6&layout=compact" alt="Wakatime language stats" align="right" width="55%" />
+<!-- <h3>📈&nbsp;Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@madhan9865&langs_count=6&layout=compact" alt="Wakatime language stats" align="right" width="55%" /> -->
 <!-- <img src="https://img.shields.io/github/followers/madhan-selvaraj?label=github%20followers&logo=github&style=for-the-badge" alt="Github follower count" /> -->
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/14869869?color=orange&label=stackoverflow%20reputation&logo=stackoverflow&style=for-the-badge" alt="Stackoverflow reputaion" />
+<!-- <img src="https://img.shields.io/stackexchange/stackoverflow/r/14869869?color=orange&label=stackoverflow%20reputation&logo=stackoverflow&style=for-the-badge" alt="Stackoverflow reputaion" /> -->
 <!-- <img src="https://img.shields.io/freecodecamp/points/madhan_s?label=freecodecamp%20points&logo=freecodecamp&style=for-the-badge" alt="Freecodecamp points" /> -->
 <!-- <img src="https://img.shields.io/badge/dynamic/json?label=Leetcode&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FMadhan_S&style=for-the-badge&logo=leetcode" alt="Leetcode points" /> -->
 <!-- <img src="https://komarev.com/ghpvc/?username=madhan9865&style=for-the-badge" alt="Profile views" /> -->
