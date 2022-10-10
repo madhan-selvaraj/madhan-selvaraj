@@ -72,6 +72,8 @@
 &nbsp;
 
 &nbsp;
+<!--
 <p align="center">
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=programming" alt="Quote" />
 <p>
+-->
